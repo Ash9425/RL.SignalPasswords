@@ -9,6 +9,10 @@ A BepInEx code mod for **Rolling Line** that adds password triggering function t
 - **Save Support** — Passwords are saved with the signal data and restored when the map is loaded. ***Important:** Spaces are not allowed in the passwords! It breaks the save file parsing, resulting in only storing the password until the first space.*
 - **Mod Integration** — Designed to work with the existing signal system and password-based prop logic. **Multiplayer functionality is not tested at this point.**
 
+## UI Preview
+
+![image_alt](https://github.com/Ash9425/RL.SignalPasswords/blob/2391ea45b5ca580843eb03e4764185a8a6060c5b/RL_SignalPasswords_UI.png)
+
 ## Requirements
 
 - Rolling Line
@@ -25,10 +29,6 @@ A BepInEx code mod for **Rolling Line** that adds password triggering function t
 ## Download
 
 **[RL_SignalPasswords_1.0.0.zip](https://github.com/Ash9425/RL.SignalPasswords/releases/download/Published/RL_SignalPasswords_1.0.0.zip)**
-
-## Source Code
-
-Currently the source code is not available in the repository, but will be shared in the future.
 
 ## Compatibility
 
