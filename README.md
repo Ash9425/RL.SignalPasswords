@@ -24,7 +24,7 @@ A BepInEx code mod for **Rolling Line** that adds password triggering function t
 
 ## Download
 
-**[RL_SignalPasswords_1.0.0.zip](https://github.com/Ash9425/RL.SignalPasswords/archive/refs/heads/RL_SignalPassword_1.0.0.zip)**
+**[RL_SignalPasswords_1.0.0.zip](https://github.com/Ash9425/RL.SignalPasswords/releases/download/Published/RL_SignalPasswords_1.0.0.zip)**
 
 ## Source Code
 
